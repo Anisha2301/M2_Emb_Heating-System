@@ -18,7 +18,7 @@ Folder                   | Description
 
 
 ## Badges
-[![C/C++ CI]([![C/C++ CI](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml))  
+([![C/C++ CI](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml))  
 
 [![Contribution Check - Git Inspector](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/gitinspector.yml)
 
