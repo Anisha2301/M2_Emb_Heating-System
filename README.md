@@ -18,9 +18,9 @@ Folder                   | Description
 
 
 ## Badges
-([![C/C++ CI](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml))  
+[![C/C++ CI](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/c-cpp1.yml) 
 
-([![Contribution Check - Git Inspector](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/gitinspector.yml/badge.svg)
+[![Contribution Check - Git Inspector](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/gitinspector.yml)
 
 ![code Quality Score](https://api.codiga.io/project/30302/score/svg)
 
