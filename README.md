@@ -14,7 +14,7 @@ Folder                   | Description
 `4_Testplan`       | Documents with test plans and procedures and Output
 `5_Report`               | Documentation of whole project
 `6_Imanges and Videos`      | Code Execution Images and Videos
-`7_`Others      | Other files
+
 
 
 ## Badges
