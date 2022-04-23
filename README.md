@@ -24,6 +24,8 @@ Folder                   | Description
 
 [![Bulid CI - windows](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/windows.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/windows.yml)
 
+[![Build_CI - Linux](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/linux.yml/badge.svg)](https://github.com/Anisha2301/M2_Emb_Heating-System/actions/workflows/linux.yml)
+
 ![code Quality Score](https://api.codiga.io/project/30302/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/30302/status/svg)
